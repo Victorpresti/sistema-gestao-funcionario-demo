@@ -1,4 +1,4 @@
-# É só executar com Java 11.
+# É só executar SGFApplication e utilizar Java 11
 
 # Contém 4 rotas, POST, GET, PATCH, DELETE
 # Para testar execute pelo Postman ou equivalente, em ordem, começando pelo save:
