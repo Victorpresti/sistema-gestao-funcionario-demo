@@ -8,11 +8,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sistema-gestao-funcionarios" />
+        <module name="sistema-gestao-funcionario-demo" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sistema-gestao-funcionario-demo" options="-parameters" />
       <module name="sistema-gestao-funcionarios" options="-parameters" />
     </option>
   </component>
