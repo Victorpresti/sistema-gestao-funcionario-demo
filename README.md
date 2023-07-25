@@ -1,5 +1,7 @@
 # É só executar SGFApplication e utilizar Java 11
 
+Criei essa aplicação utilizando arquitetura padrão hexagonal, embora ela seja muito complexa para um programa desse tamanho. Demorou entre 1h e 1h30m para montar toda a aplicação do zero.
+
 # Contém 4 rotas, POST, GET, PATCH, DELETE
 # Para testar execute pelo Postman ou equivalente, em ordem, começando pelo save:
 
